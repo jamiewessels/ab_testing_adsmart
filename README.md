@@ -12,7 +12,7 @@ The purpose of this repo is to walk through the a frequentist and Bayesian appro
      * Exposure group follows binomial distribution where p  = 0.144
 
 * Alt Hypothesis: 
-* * Exposure to smart add does improve response rate, p > 0.144
+     * Exposure to smart add does improve response rate, p > 0.144
     
     
 * Method: Binomial test
